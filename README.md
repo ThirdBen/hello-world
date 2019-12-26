@@ -105,7 +105,21 @@ youth 年轻
 absence 不在
 aid 援助
 aim 目標
-
+arrange [əˈreɪndʒ] 安排 改编
+average 平均
+cell 细胞
+claim 要求 主張 
+conduct 实施
+consider 考虑
+contain 含む
+demand 要求
+determine 决定
+direct 直接的
+element 成分
+exercise 活动，锻炼
+experiment 実験
+figure 数字
+flow 流れ stream?
 
 
 

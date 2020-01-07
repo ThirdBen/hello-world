@@ -2,43 +2,43 @@
 Just another repository
 I don`t like CCP
 
-benefit 利益
-burst 爆発
-carriage 馬車
-coal 石炭
-comb 梳子
+benefit ˈbenɪfɪt 利益
+burst bɜːrst 爆発
+carriage ˈkærɪdʒ 馬車
+coal koʊl 石炭
+comb koʊm 梳子
 committees [kəˈmɪtiz] 委員会
 complex 複雑
-conscious 意識
+conscious ˈkɑːnʃəs 意識
 cruel 残酷
 degree 程度
 desire 欲望
 distance 距離
 edge 边缘
-electric 電動
+electric ɪˈlektrɪk 電動
 exchange 交換
-female 女性
+female ˈfiːmeɪl 女性
 harmony 融洽
 lift 提起/升降机
-loose 緩い
-military 軍隊 army?
-muscle 筋肉
+loose luːs 緩い
+military ˈmɪləteri 軍隊 army?
+muscle ˈmʌsl 筋肉
 nerve 神経
-parcel 包裹
+parcel ˈpɑːrsl 包裹
 plate 皿
-punishment 惩罚[ˈpʌnɪʃmənt]
+punishment [ˈpʌnɪʃmənt] 惩罚
 purpose 目的
 ray 射線
-receipt レシート
-regret 後悔
+receipt rɪˈsiːt レシート
+regret rɪˈɡret 後悔
 reward 報酬
 rub 摩擦
-sail 航行
-secretary 秘書
-servant 仆人[ˈsɜːrvənt] 
+sail seɪl 航行
+secretary ˈsekrəteri 秘書
+servant ˈsɜːrvənt 仆人
 shade 陰
-solid 個体
-stell 鋼鉄
+solid ˈsɑːlɪd 個体
+steel 鋼鉄
 stretch [stretʃ]舒展 伸展
 theory 理論[ˈθiːəri]
 thread [θred](棉、毛、丝等的) 线
@@ -54,8 +54,8 @@ chin 顎
 cloth 布
 collar 襟
 content 中身
-cotten 綿
-cough 咳
+cotton ˈkɑːtn 綿
+cough kɔːf 咳
 crack ひび割れ
 crush 压坏
 curtain [ˈkɜːrtn] 窗帘
@@ -63,9 +63,9 @@ cushion クッション
 development 発展
 distribution 分配
 drawer 抽屉
-dust ほこり
+dust dʌst ほこり
 enemy 敵
-feather 羽毛
+feather ˈfeðər 羽毛
 fixed 一定の
 grip 握る
 hook 钩
@@ -85,24 +85,24 @@ rod [rɑːd] 棍棒
 screw [skruː]ねじ
 shelf 棚
 sight 視力
-silk 丝绸
+silk 丝绸/絹（きぬ）
 slope 斜坡
 stiff 僵硬的
 stomach [ˈstʌmək] 胃
 in terms of 在…方面
 throat のど
-thumb 親指
+thumb θʌm 親指
 tight  紧的
-tin 罐　錫(すず)　
+tin tɪn 罐/錫(すず)　
 trousers ズボン
 twist 扭转 
 Turn the wheel　ハンドルを切る
 violent 暴力的
 wax 蝋
-whistle 笛
+whistle ˈwɪsl 笛
 wire 导线
-youth 年轻
-absence 不在
+youth juːθ 年轻
+absence ˈæbsəns 不在
 aid 援助
 aim 目標
 arrange [əˈreɪndʒ] 安排 改编
@@ -112,13 +112,13 @@ claim 要求 主張
 conduct 实施
 consider 考虑
 contain 含む
-demand 要求
-determine 决定
+demand dɪˈmænd 要求
+determine dɪˈtɜːrmɪn 决定
 direct 直接的
-element 成分
-exercise 活动，锻炼
-experiment 実験
-figure 数字
+element ˈelɪmənt 成分
+exercise ˈeksərsaɪz 活动，锻炼
+experiment ɪkˈsperɪmənt 実験
+figure  数字
 flow 流れ stream?
 
 
